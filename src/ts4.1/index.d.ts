@@ -1,12 +1,8 @@
 import {
   i18n, ReactOptions,
-
-
   Resource,
-
   StringMap,
   TFunctionResult, ThirdPartyModule,
-
   TOptions
 } from 'i18next';
 import * as React from 'react';
